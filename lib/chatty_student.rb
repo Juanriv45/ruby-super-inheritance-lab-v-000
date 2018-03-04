@@ -10,5 +10,5 @@ class Chatty_stedent < Student
       puts phrase
     end
   end
-  
+
 end
