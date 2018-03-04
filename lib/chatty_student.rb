@@ -17,5 +17,4 @@ class ChattyStudent < Student
     Super
     Super
   end
-
 end
